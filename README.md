@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact&theme=dark&title_color=00FF00&text_color=C0C0C0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact&title_color=23238E&text_color=A67D3D)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&theme=dark&text_color=C0C0C0&title_color=00FF00&show_icons=false&count_private=true&hide=stars)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&&text_color=A67D3D&title_color=23238E&show_icons=false&count_private=true&hide=stars)
