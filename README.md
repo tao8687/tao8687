@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact)]
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact)]/>
 </a>
 <a>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&theme=radical)
+<![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&theme=radical)/>
 </a>
