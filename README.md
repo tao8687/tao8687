@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact&title_color=23238E&text_color=A67D3D)
