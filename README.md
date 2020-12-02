@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=tao8687&layout=compact&title_color=23238E&text_color=A67D3D)
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&&text_color=A67D3D&title_color=23238E&show_icons=false&count_private=true&hide=stars)
+-->
