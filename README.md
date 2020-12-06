@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -29,3 +22,10 @@ No Activity tracked this Week
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tao8687&show_icons=true&&text_color=A67D3D&title_color=23238E&show_icons=false&count_private=true&hide=stars)
 
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
