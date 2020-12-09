@@ -24,5 +24,12 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Coding Stats</summary>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+```text
+YAML       56 mins         █████████████▓░░░░░░░░░░░   54.18 % 
+Markdown   34 mins         ████████▒░░░░░░░░░░░░░░░░   32.91 % 
+Docker     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Bash       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+```
+<!--END_SECTION:waka-->
 </details>
