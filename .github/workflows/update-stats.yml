@@ -1,7 +1,7 @@
 name: Waka Readme
 
 on: [push]
-      
+
 jobs:
   update-readme:
     name: Update this repo's README
