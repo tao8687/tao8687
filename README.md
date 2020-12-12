@@ -24,14 +24,5 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Coding Stats</summary>
     <!--START_SECTION:waka-->
-```text
-Week: 04 December, 2020 - 11 December, 2020
-
-C++        1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.88 % 
-Other      1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.92 % 
-YAML       1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 % 
-Markdown   51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-CMake      47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-```
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </details>
