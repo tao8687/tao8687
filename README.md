@@ -25,11 +25,13 @@ Here are some ideas to get you started:
   <summary>:zap: Coding Stats</summary>
     <!--START_SECTION:waka-->
 ```text
-YAML       56 mins         █████████████▓░░░░░░░░░░░   54.18 % 
-Markdown   34 mins         ████████▒░░░░░░░░░░░░░░░░   32.91 % 
-Docker     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Bash       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-XML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Week: 04 December, 2020 - 11 December, 2020
+
+C++        1 hr 55 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.88 % 
+Other      1 hr 41 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.92 % 
+YAML       1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 % 
+Markdown   51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+CMake      47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 ```
 <!--END_SECTION:waka-->
 </details>
