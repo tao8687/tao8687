@@ -26,13 +26,12 @@ Here are some ideas to get you started:
   <b>
 <!--START_SECTION:waka-->
 ```text
-Week: 18 February, 2021 - 25 February, 2021
+Week: 19 February, 2021 - 26 February, 2021
 
-Cuda       53 mins         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-C++        50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.62 % 
-Makefile   36 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-C          30 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JSON       17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Cuda       33 mins         ██████████▓░░░░░░░░░░░░░░   42.47 % 
+C++        31 mins         ██████████░░░░░░░░░░░░░░░   39.79 % 
+C          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Makefile   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 ```
 <!--END_SECTION:waka-->
 </details>
