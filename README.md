@@ -26,12 +26,7 @@ Here are some ideas to get you started:
   <b>
 <!--START_SECTION:waka-->
 ```text
-Week: 19 February, 2021 - 26 February, 2021
-
-Cuda       33 mins         ██████████▓░░░░░░░░░░░░░░   42.47 % 
-C++        31 mins         ██████████░░░░░░░░░░░░░░░   39.79 % 
-C          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Makefile   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
