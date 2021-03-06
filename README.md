@@ -25,8 +25,78 @@ Here are some ideas to get you started:
   <summary>:zap: Coding Stats</summary>
   <b>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 71 Contributions in the Year 2021
+ > 
+> 📦 880.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 41 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    110 commits    ██████████░░░░░░░░░░░░░░░   42.64% 
+🌆 Daytime    70 commits     ██████░░░░░░░░░░░░░░░░░░░   27.13% 
+🌃 Evening    67 commits     ██████░░░░░░░░░░░░░░░░░░░   25.97% 
+🌙 Night      11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
+Tuesday      29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Wednesday    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
+Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+Friday       49 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
+Saturday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Sunday       24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.3%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      9 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
+C                        6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/tao8687/tao8687/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 </details>
