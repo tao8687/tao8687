@@ -25,8 +25,79 @@ Here are some ideas to get you started:
   <summary>:zap: Coding Stats</summary>
   <b>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 265 Contributions in the Year 2021
+ > 
+> 📦 886.4 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 49 Public Repositories 
+ > 
+> 🔑 21 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    141 commits    ███████████░░░░░░░░░░░░░░   44.76% 
+🌆 Daytime    90 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌃 Evening    75 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Tuesday      49 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+Thursday     44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
+Friday       63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Saturday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+Sunday       17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
+C                        6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/tao8687/tao8687/master/charts/bar_graph.png) 
+
+
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 </details>
