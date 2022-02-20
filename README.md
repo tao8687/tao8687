@@ -26,15 +26,13 @@ Here are some ideas to get you started:
   <b>
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 14 hrs 6 mins
-
-CMake      11 hrs 38 mins  ████████████████████▓░░░░   82.39 % 
-C++        1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-C          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Text       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CMake      14 hrs 41 mins  █████████████████████▒░░░   84.93 % 
+C++        1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+C          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Text       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
 </details>
