@@ -25,14 +25,17 @@ Here are some ideas to get you started:
   <summary>:zap: Coding Stats</summary>
   <b>
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-CMake   1 hr 29 mins    ██████████████████▓░░░░░░   74.81 % 
-C++     12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Text    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-YAML    7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-C       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+CMake      1 hr 29 mins    ██████████████████▓░░░░░░   74.81 %
+C++        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Text       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+YAML       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
+
 <!--END_SECTION:waka-->
 </details>
