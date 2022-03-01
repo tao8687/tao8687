@@ -27,14 +27,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-CMake      1 hr 29 mins    ██████████████████▓░░░░░░   74.81 %
-C++        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Text       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-YAML       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-C          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CMake      10 mins         █████████████▓░░░░░░░░░░░   54.57 %
+YAML       7 mins          ██████████░░░░░░░░░░░░░░░   39.39 %
+C++        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
