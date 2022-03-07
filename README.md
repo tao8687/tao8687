@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
+From: 27 February 2022 - To: 06 March 2022
 
 C++        3 mins          ████████████████▒░░░░░░░░   65.34 %
 Markdown   1 min           ████████▓░░░░░░░░░░░░░░░░   34.66 %
