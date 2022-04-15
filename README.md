@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2022 - To: 13 April 2022
+From: 07 April 2022 - To: 14 April 2022
 
-YAML     2 hrs 8 mins    ███████████░░░░░░░░░░░░░░   43.37 %
-C++      1 hr 46 mins    █████████░░░░░░░░░░░░░░░░   36.12 %
-Other    59 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+YAML     7 hrs 10 mins   ███████████████▓░░░░░░░░░   62.66 %
+C++      2 hrs 8 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
+Other    1 hr 59 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
 ```
 
 <!--END_SECTION:waka-->
