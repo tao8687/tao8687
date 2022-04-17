@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2022 - To: 15 April 2022
+From: 09 April 2022 - To: 16 April 2022
 
 YAML     9 hrs 38 mins   █████████████▓░░░░░░░░░░░   55.18 %
 Other    3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.75 %
