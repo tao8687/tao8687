@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2022 - To: 23 April 2022
+From: 17 April 2022 - To: 24 April 2022
 
-YAML               12 hrs 22 mins  ██████████████▒░░░░░░░░░░   56.79 %
-Other              4 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+YAML               12 hrs 33 mins  ████████████░░░░░░░░░░░░░   48.34 %
+Other              8 hrs 54 mins   ████████▓░░░░░░░░░░░░░░░░   34.27 %
 ```
 
 <!--END_SECTION:waka-->
