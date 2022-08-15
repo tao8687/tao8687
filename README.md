@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240">
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tao8687&layout=compact&title_color=23238E&text_color=A67D3D)
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Coding Stats</summary>
-  <b>
+  <br>
+    
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%205%20mins-blue)
 
