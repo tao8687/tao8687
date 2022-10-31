@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 29 October 2022
+From: 23 October 2022 - To: 30 October 2022
 
-C          11 hrs 22 mins  ████████████▒░░░░░░░░░░░░   49.62 %
-Makefile   5 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-Other      5 hrs           █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+C          11 hrs 22 mins  █████████████▒░░░░░░░░░░░   53.55 %
+Makefile   5 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   24.30 %
+Other      3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
 ```
 
 <!--END_SECTION:waka-->
