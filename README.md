@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 November 2022 - To: 22 November 2022
+From: 16 November 2022 - To: 23 November 2022
 
-Markdown   41 mins         ███████████████▓░░░░░░░░░   62.92 %
-Text       24 mins         █████████▒░░░░░░░░░░░░░░░   37.04 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown   2 hrs 3 mins    █████████████████████▒░░░   84.94 %
+Text       21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
 ```
 
 <!--END_SECTION:waka-->
