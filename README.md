@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 November 2022 - To: 02 December 2022
+From: 26 November 2022 - To: 03 December 2022
 
-C++        5 hrs 16 mins   █████████████████░░░░░░░░   68.31 %
-Markdown   1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-YAML       57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-C          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C++        5 hrs 16 mins   ██████████████████░░░░░░░   71.36 %
+YAML       57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Markdown   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+C          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
