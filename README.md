@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-C            4 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
-C++          3 hrs 42 mins   ███████▒░░░░░░░░░░░░░░░░░   29.73 %
-Python       1 hr 47 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Markdown     1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Text         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Makefile     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+C++           11 hrs 44 mins  ██████████████░░░░░░░░░░░   56.09 %
+C             4 hrs 30 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+Python        1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Markdown      1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+YAML          34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Text          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
