@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Makefile     5 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.00 %
-Bash         4 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Other        2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+Makefile     6 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
+Bash         5 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+Other        4 hrs 44 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
 ```
 
 <!--END_SECTION:waka-->
