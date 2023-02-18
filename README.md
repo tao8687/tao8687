@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Makefile     1 hr 54 mins    ███████▓░░░░░░░░░░░░░░░░░   30.26 %
-C            1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Other        49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+C++          2 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.11 %
+Makefile     1 hr 56 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+C            1 hr 43 mins    █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Other        52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
 ```
 
 <!--END_SECTION:waka-->
