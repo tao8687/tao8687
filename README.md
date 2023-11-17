@@ -29,13 +29,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-C++      2 hrs 10 mins   ██████████████▒░░░░░░░░░░   57.10 %
-C        40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
-Python   36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
-Other    16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Text     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+C++   48 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
