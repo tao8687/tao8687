@@ -27,39 +27,16 @@ Here are some ideas to get you started:
   <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+```txt
+From: 06 December 2023 - To: 13 December 2023
 
-**🐱 My GitHub Data** 
-
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 348 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C++                      8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Other        1 hr 39 mins    ███████████████░░░░░░░░░░   59.64 %
+C++          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Python       26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/tao8687/tao8687/master/assets/bar_graph.png)
-
-
- Last Updated on 13/12/2023 01:15:04 UTC
 <!--END_SECTION:waka-->
 </details>
