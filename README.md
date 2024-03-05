@@ -27,78 +27,12 @@ Here are some ideas to get you started:
   <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C419%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+```txt
+From: 26 February 2024 - To: 04 March 2024
 
-**🐱 My GitHub Data** 
-
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 50 Public Repositories 
- > 
-> 🔑 24 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1301 commits        ██████████████████████░░░   86.22 % 
-🌆 Daytime                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-🌃 Evening                117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   218 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Tuesday                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Wednesday                270 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Thursday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Saturday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Sunday                   199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+No activity tracked
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C++                      8 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/tao8687/tao8687/master/assets/bar_graph.png)
-
-
- Last Updated on 04/03/2024 01:10:03 UTC
 <!--END_SECTION:waka-->
 </details>
