@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 02 June 2025
+From: 27 May 2025 - To: 03 June 2025
 
-C               1 hr 34 mins    ████████████▒░░░░░░░░░░░░   49.82 %
-Dart            36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
-Makefile        16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-INI             12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-JSON            10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+C               1 hr 34 mins    █████████▓░░░░░░░░░░░░░░░   38.29 %
+Dart            36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Python          24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+Markdown        22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Makefile        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
