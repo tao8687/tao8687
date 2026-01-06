@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Markdown     31 mins         ███████░░░░░░░░░░░░░░░░░░   28.55 %
-YAML         27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-Bash         23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-JavaScript   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Python       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+YAML       26 mins         ███████████▒░░░░░░░░░░░░░   45.44 %
+Markdown   16 mins         ███████░░░░░░░░░░░░░░░░░░   27.67 %
+Python     15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
 ```
 
 <!--END_SECTION:waka-->
