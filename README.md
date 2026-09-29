@@ -27,16 +27,107 @@ Here are some ideas to get you started:
   <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2041%20mins-blue?style=flat)
 
-```txt
-From: 21 September 2026 - To: 28 September 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%201%20min-blue?style=flat)
 
-JSON         26 mins               ██████████▒░░░░░░░░░░░░░░   41.65 %
-Other        25 mins               ██████████▒░░░░░░░░░░░░░░   41.19 %
-SSH Config   9 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 274 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2196 commits        ██████████████████████░░░   89.63 % 
+🌆 Daytime                130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+🌃 Evening                120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Wednesday                406 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   348 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     26 mins             ██████████░░░░░░░░░░░░░░░   41.65 % 
+Other                    25 mins             ██████████░░░░░░░░░░░░░░░   41.19 % 
+SSH Config               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔥 Editors: 
+Cursor                   1 hr 2 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          29 mins             ████████████░░░░░░░░░░░░░   46.88 % 
+ros                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+config                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+kld.kunlunzhima-4.6.1    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+
+💻 Operating System: 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 2 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 9 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 67 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tao8687/tao8687/master/assets/bar_graph.png)
+
+
+ Last Updated on 29/09/2026 05:08:04 UTC
 <!--END_SECTION:waka-->
 </details>
