@@ -27,12 +27,101 @@ Here are some ideas to get you started:
   <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2041%20mins-blue?style=flat)
 
-```txt
-From: 06 October 2026 - To: 13 October 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2035%20mins-blue?style=flat)
 
-Other   33 mins               █████████████████████████   100.00 %
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 289 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2196 commits        ██████████████████████░░░   89.09 % 
+🌆 Daytime                145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌃 Evening                120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Tuesday                  339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Wednesday                409 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   350 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Saturday                 344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Sunday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    33 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   33 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          32 mins             ████████████████████████░   95.07 % 
+launch                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+
+💻 Operating System: 
+Windows                  33 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 11 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 43 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tao8687/tao8687/master/assets/bar_graph.png)
+
+
+ Last Updated on 14/10/2026 04:17:39 UTC
 <!--END_SECTION:waka-->
 </details>
