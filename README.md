@@ -27,12 +27,86 @@ Here are some ideas to get you started:
   <br>
     
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C132%20hrs%2041%20mins-blue?style=flat)
 
-```txt
-From: 22 October 2026 - To: 29 October 2026
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2035%20mins-blue?style=flat)
 
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 305 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 65 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2207 commits        ██████████████████████░░░   88.96 % 
+🌆 Daytime                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+🌃 Evening                120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Tuesday                  341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Wednesday                411 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Thursday                 337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Friday                   353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Saturday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Batchfile                1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/tao8687/tao8687/master/assets/bar_graph.png)
+
+
+ Last Updated on 30/10/2026 05:06:50 UTC
 <!--END_SECTION:waka-->
 </details>
